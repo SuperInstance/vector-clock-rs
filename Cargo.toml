@@ -1,0 +1,11 @@
+[package]
+name = "vector-clock-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Vector clocks and causality: Lamport timestamps, vector clocks, conflict detection, causal ordering"
+license = "MIT"
+repository = "https://github.com/SuperInstance/vector-clock-rs"
+keywords = ["vector-clock", "lamport", "causality", "distributed", "ordering"]
+categories = ["algorithms", "data-structures"]
+
+[dependencies]
